@@ -1,5 +1,5 @@
-# data-structure-algorithm-javascript
-数据结构与算法知识点汇总(javascript版)
+# 数据结构与算法知识点汇总(javascript版)
+
 # 如何学习知识
 1. 拆分知识点，连成大树，成为脑图
 2. 刻意练习， 一道leetcode题一定不要只刷一遍，针对弱项，反复练习
