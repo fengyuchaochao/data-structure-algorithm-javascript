@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16d30c0e-e8c3-40af-8673-abae44612d46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01-数组/总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-链表/总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-栈/stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-栈/总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-队列/queen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-队列/总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-哈希表/总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-树/binary_search_tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-树/总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-递归/总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,13 +27,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="11" />
-          <entry key="md" value="15" />
+          <entry key="md" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="11" />
-          <entry key="Markdown" value="13" />
+          <entry key="Markdown" value="14" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -65,65 +56,7 @@
     <favorites_list name="data-structure-algorithm-javascript" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-队列/总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="417">
-                <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-栈/总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-链表/总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="642">
-                <caret line="55" column="49" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-数组/总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-栈/stack.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -185,6 +118,16 @@
               <item name="data-structure-algorithm-javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structure-algorithm-javascript" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="data-structure-algorithm-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-algorithm-javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="06-树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structure-algorithm-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-algorithm-javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="07-递归" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -222,7 +165,7 @@
     <configuration name="[94]二叉树的中序遍历.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="[94]二叉树的中序遍历.js" working-dir="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="binary_search_tree.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="binary_search_tree.js" working-dir="$PROJECT_DIR$/05-树">
+    <configuration name="binary_search_tree.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/06-树/binary_search_tree.js" working-dir="$PROJECT_DIR$/06-树">
       <method v="2" />
     </configuration>
     <list>
@@ -250,12 +193,12 @@
       <updated>1571747893816</updated>
       <workItem from="1571747895084" duration="1998000" />
       <workItem from="1571750125267" duration="1318000" />
-      <workItem from="1571832807997" duration="3944000" />
+      <workItem from="1571832807997" duration="4216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7260000" />
+    <option name="totallyTimeSpent" value="7532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,7 +211,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="814" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49791956" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" sideWeight="0.50208044" side_tool="true" weight="0.25679544" />
@@ -282,7 +224,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32963988" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32963988" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32963988" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.0013850415" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -332,7 +274,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -340,24 +282,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05-树/binary_search_tree.js">
+    <entry file="file://$PROJECT_DIR$/06-树/binary_search_tree.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05-树/总结.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="582">
-            <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-哈希表/总结.md">
+    <entry file="file://$PROJECT_DIR$/05-哈希表/总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="642">
@@ -367,7 +299,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06-递归/总结.md">
+    <entry file="file://$PROJECT_DIR$/07-递归/总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="510">
@@ -377,14 +309,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-队列/queen.js">
+    <entry file="file://$PROJECT_DIR$/04-队列/queen.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="99" column="1" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-队列/总结.md">
+    <entry file="file://$PROJECT_DIR$/04-队列/总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="417">
@@ -426,6 +358,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="435">
             <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-树/总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="582">
+            <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           </first_editor>
           <second_editor />
         </state>
